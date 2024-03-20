@@ -1,7 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Maximus 👋
+
+- ❤️ I love coding
+- 👪 I love my family
+- 🌱 I'm always learning
+- 😅 I have bought more Udemy courses than I will ever be able to complete.
+- 💻 I use Arduino to introduce my kid into coding 
+- 🔭 I’m currently working on a SW company
 
 <!--
 **tpc-maximus/tpc-maximus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+List of emoticons can be found here: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#flags
 
 Here are some ideas to get you started:
 
