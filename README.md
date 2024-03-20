@@ -1,11 +1,12 @@
 ### Hi there, I'm Maximus 👋
 
-- ❤️ I love coding
-- 👪 I love my family
-- 🌱 I'm always learning
-- 😅 I have bought more Udemy courses than I will ever be able to complete.
-- 💻 I use Arduino to introduce my kid into coding 
-
+- ❤️ I love coding /
+- 👪 Father to a wonderful son, husband to a wonderful wife, son to wonderful parents /
+- 🌱 I'm always learning /
+- 😅 I have bought more Udemy courses than I will ever be able to complete /
+- 💻 I use Arduino to introduce my kid into coding /
+- ⚡ Engineering and coding are the closest to having a superpower /
+  
 <!--
 **tpc-maximus/tpc-maximus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
