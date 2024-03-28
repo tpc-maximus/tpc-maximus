@@ -1,7 +1,7 @@
 ### Hi there, I'm Maximus 👋
 
 - ❤️ I love coding /
-- 👪 Father to a wonderful son, husband to a wonderful wife, son to wonderful parents /
+- 👪 Father to a wonderful son, husband to an amazing wife, son to the best parents ever /
 - 🌱 I'm always learning /
 - 😅 I have bought more Udemy courses than I will ever be able to complete /
 - 💻 I use Arduino to introduce my kid into coding /
