@@ -1,6 +1,6 @@
 ### Hi there, I'm Maximus 👋
 
-- ❤️ I love coding /
+- ❤️ I love STEM
 - 👪 Father to a wonderful son, husband to an amazing wife, son to the best parents ever /
 - 🌱 I'm always learning /
 - 😅 I have bought more Udemy courses than I will ever be able to complete /
